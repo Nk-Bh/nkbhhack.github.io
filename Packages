@@ -1,0 +1,13 @@
+Package: com.nkbhhack.iappurchases1
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: nkbhhack
+Filename: /iappurchases1.deb
+Size: 8192 
+MD5sum: 04fb8b5b5ed931b01dee0c212be36f93
+SHA1: 0cd62a35f25135c30065e4ddb2e325cbef86d4af
+SHA256: ba782a117c80dfe601c47215f66da8b6a8f3c8a8c89bad5018962136b9b01b68
+Section: Tweaks
+Description: اختراق الشراء من داخل بعض التطبيقات
+Author: nkbhhack
+Name: iappurchases1
